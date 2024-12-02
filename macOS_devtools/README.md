@@ -16,7 +16,7 @@ brew install warp
 
 :: You might need [Nerd Fonts](https://www.nerdfonts.com/font-downloads)
 
-### Terminals
+### Terminal tools
 
 1. [Kitty](https://sw.kovidgoyal.net/kitty/)
 2. [Warp](https://www.warp.dev/)
