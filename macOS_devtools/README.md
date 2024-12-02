@@ -3,6 +3,8 @@
 ## Youtube Video
 ![macOS Developer Tools.](https://i4.ytimg.com/vi/yJgakHTUSdc/mqdefault.jpg "macOS Developer Tools.")
 
+https://youtu.be/yJgakHTUSdc
+
 :: To install all you will need [Homebrew](https://brew.sh/)
 
 ## Install
