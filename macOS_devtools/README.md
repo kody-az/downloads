@@ -14,6 +14,7 @@ brew install micro
 brew install nvim
 brew install kitty
 brew install warp
+brew install starship
 ```
 
 :: You might need [Nerd Fonts](https://www.nerdfonts.com/font-downloads)
