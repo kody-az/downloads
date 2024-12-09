@@ -1,4 +1,4 @@
-# macOS Developer Tools
+# tmux macOS
 
 ## Youtube Video
 ![macOS Developer Tools.](https://i4.ytimg.com/vi/SwwmPPT9JXI/mqdefault.jpg "tmux macOS | terminal in terminal")
